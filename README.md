@@ -86,7 +86,7 @@ An example `room availability response` consists of a json object containing dai
 ## Notes
 
  For the purpose of this exercise:
- - You can [utilize the example room availability file located here](https://raw.githubusercontent.com/trainlinerecruitment/room-booking/main/availability.json) for all room availabilities; hosted on GitHub.
+ - You can [utilize the example room availability file located here](https://raw.githubusercontent.com/trainlinerecruitment/room-availability/main/availability.json) for all room availabilities; hosted on GitHub.
  - For now we are using the dummy file above hosted via GitHub, but eventually we must be able to easily swap the uri to a real endpoint.
  - Your api design needs to enable querying availability per `room name` but for this exercise assume all rooms will use/have the same availability.
  - The physical date is not important, you can assume every week the schedule is the same for all rooms, only the `day of the week` is required for requests.
