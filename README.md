@@ -4,13 +4,14 @@ If you are here it's probably because you applied for a Software Engineering rol
 
 <u>**Please ensure you read the notes below before start thinking about the scenario**</u>
 
-Good luck! :)
+Good luck! 🙂
 
-## Notes
+### Notes
 
-- You may utilise any libraries and frameworks you wish to achieve the business scenario above. 
-- Please ensure though that you don't prepare any code in advance, we would like to see you work on this exercise from scratch during the interview call :)
-- An optional templated solution is [provided here for candidates](https://github.com/trainlinerecruitment/starter-solution-csharp) if you would like to use it - It is completely optional to use this; and you can start from scratch on the day if you prefer.
+- You may utilise any libraries and frameworks you wish to achieve the business scenario above.
+- The purpose of this exercise is NOT to get to the end, but instead it is for you to show us your coding, problem solving and communication skills.
+- Please don't prepare any code in advance - we would like to see you work on this exercise from scratch during the interview call 🙂
+- Optional "starter solutions" are [provided here for candidates](https://github.com/trainlinerecruitment/starter-solution-csharp) if you would like to clone and use them please do - This is completely optional; and you can start from scratch with `File > New` on the day if you prefer.
 - We would like you approach this problem with a **"Production Mindset"**; think about how you would solve this problem as you would any production code/system.
 
 ---
@@ -86,8 +87,8 @@ An example `room availability response` consists of a json object containing dai
 ## Notes
 
  For the purpose of this exercise:
- - You can [utilize the example room availability file located here](https://raw.githubusercontent.com/trainlinerecruitment/room-availability/main/availability.json) for all room availabilities; hosted on GitHub.
- - For now we are using the dummy file above hosted via GitHub, but eventually we must be able to easily swap the uri to a real endpoint.
+ - You can [utilize the example room availability file located here](https://raw.githubusercontent.com/trainlinerecruitment/room-availability/main/availability.json) to simulate all room availabilities; hosted on GitHub.
+ - For the purpose of this test we are using the dummy file above to simulate room availability, but eventually we must be able to easily swap the uri to a real endpoint, keep this in mind when designing your solution.
  - Your api design needs to enable querying availability per `room name` but for this exercise assume all rooms will use/have the same availability.
  - The physical date is not important, you can assume every week the schedule is the same for all rooms, only the `day of the week` is required for requests.
  - When showing the room availability in responses, it should be rendered in 30 min increments.
