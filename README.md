@@ -53,7 +53,6 @@ An example `room availability response` consists of a json object containing dai
    - Provide a mechanism to retrieve the availability for a room for a given `day of the week`. 
    - The `day of the week` can be specified in numerical format (`1 == Monday, 2 == Tuesday` etc.) or in string format (`Monday, Tuesday` etc.)
    - Provide a mechanism to retrieve the availability for a room for all days of the week.
-   - Provide a mechanism to retrieve the availability for a room for a specific `day of the week`.
    - Provide a mechanism to check if a room is free on a specific `day of the week` and `time of day` for a specified `duration in minutes`.
    - If a request is made for an invalid day or time then an appropriate response should be returned.
    - We have identified that the real availability service has stability issues, when making external calls we need to ensure we have resilience implemented.
