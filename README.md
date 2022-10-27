@@ -10,11 +10,11 @@ This will be a 90 minute pair programming style exercise in which you will attem
 1. We ask that you tackle this test as you would any code you were writing for a production system - Example: best practices vs hacking.
 1. The purpose of this exercise is not to get to the end, but to show us the process you use to get there. We are trying to assess not only how you code but also the thought process you follow to get to the solution.
 1. The sort of things we want to see are traits such as, but not limited to: 
-  - Good programming practices
-  - Good use of patterns
-  - Thinking about testability of code
-  - Good api design
-  - Use of modern framework/language features
+    - Good programming practices
+    - Good use of patterns
+    - Thinking about testability of code
+    - Good api design
+    - Use of modern framework/language features
 1. This **is not a closed book** test, you are free to Google search or Stack Overflow any answers you need.
 1. You may use any OSS packages/nuget code you wish
 1. We would prefer you not to prepare any code ahead of time, because we want to pair with you and see how you think/solve problems, but we appreciate that this can be stressful so if you wish to spend time outside the interview to prep then please do so; but please remember we don't expect it because your time is valuable.
