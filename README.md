@@ -9,7 +9,7 @@ This will be a 90 minute pair programming style exercise in which you will attem
 1. The test is designed to be open ended, by which we mean you are free to tackle it in any way you see fit.
 1. We ask that you tackle this test as you would any code you were writing for a production system - Example: best practices vs hacking.
 1. The purpose of this exercise is not to get to the end, but to show us the process you use to get there. We are trying to assess not only how you code but also the thought process you follow to get to the solution.
-1. The sort of things we want to see are traits such as, but not limited to: 
+1. Traits we love to see from candidates include, but are not limited to, the following: 
     - Good programming practices
     - Good use of patterns
     - Thinking about testability of code
