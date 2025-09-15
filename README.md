@@ -132,8 +132,8 @@ Here are some suggestions to help you succeed in this session:
 - **Clarify assumptions early**: If anything is unclear (e.g., input format, edge cases), ask questions. Real-world coding is about collaboration.
 - **Iterate incrementally**: Start with a simple working solution, then refine it with tests, error handling, and improvements.
 - **Use tests to guide you**: Writing a quick unit test can make it easier to validate your logic and show us how you approach testability.
-- **Balance speed and quality**: Don’t get stuck on polishing everything—focus on showing a pragmatic, production-minded approach.
+- **Balance speed and quality**: Don’t get stuck on polishing everything - focus on showing a pragmatic, production-minded approach.
 - **Show resilience thinking**: Handle failures (timeouts, bad inputs) in a way that would make sense in a real-world system.
-- **Communicate with your interviewer**: Treat them like a coding buddy—pairing is about teamwork as much as code.
+- **Communicate with your interviewer**: Treat them like a coding buddy - pairing is about teamwork as much as code.
 
 **Remember:** we’re more interested in **how you think** than whether you finish every requirement.  
