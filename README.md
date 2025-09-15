@@ -70,7 +70,7 @@ Build a RESTful API with the following functionality:
 1. **Retrieve room availability for all days of the week**
 
 2. **Retrieve room availability for a given day of the week**
-    - Day may be specified as a string (`"monday"`.. `"friday"`) or number (`1` = Monday, …, `5` = Friday).
+    - Day may be specified as a string (`"monday"`…, `"friday"`) or number (`1` = Monday, …, `5` = Friday).
 
 3. **Check if a room is free at a specific time and duration**
     - Example: “Is room X available on Tuesday at 14:30 for 90 minutes?”
