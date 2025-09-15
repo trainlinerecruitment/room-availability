@@ -28,7 +28,7 @@ Before diving in, please take a moment to read these guidelines carefully so you
 - If you want to do some prep beforehand, that’s fine—but **not expected**. We know your time is valuable.
 
 ### The Interview
-- Treat this like pairing with a teammate. Your interviewer will be there to help—you can ask questions, talk through ideas, or get unstuck.
+- Treat this like pairing with a teammate. Your interviewer will be there to help - you can ask questions, talk through ideas.
 - Most importantly: **enjoy it**! We want this to be a positive experience.
 
 Good luck! 😃
